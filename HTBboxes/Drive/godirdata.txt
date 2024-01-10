@@ -1,0 +1,34 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://drive.htb/
+[+] Method:                  GET
+[+] Threads:                 100
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/login                (Status: 301) [Size: 0] [--> /login/]
+[2K/register             (Status: 301) [Size: 0] [--> /register/]
+[2K/home                 (Status: 301) [Size: 0] [--> /home/]
+[2K/contact              (Status: 301) [Size: 0] [--> /contact/]
+[2K/subscribe            (Status: 301) [Size: 0] [--> /subscribe/]
+[2K/uploads              (Status: 302) [Size: 0] [--> /login/]
+[2K/reports              (Status: 301) [Size: 0] [--> /reports/]
+[2K/upload               (Status: 301) [Size: 0] [--> /upload/]
+[2K/logout               (Status: 301) [Size: 0] [--> /logout/]
+[2K/uploaded_images      (Status: 302) [Size: 0] [--> /login/]
+[2K/uploaded             (Status: 302) [Size: 0] [--> /login/]
+[2K/uploadedImages       (Status: 302) [Size: 0] [--> /login/]
+[2K/upload_control       (Status: 302) [Size: 0] [--> /login/]
+[2K/uploadedimages       (Status: 302) [Size: 0] [--> /login/]
+[2K/password_reset       (Status: 301) [Size: 0] [--> /password_reset/]
+[2K/uploadedFiles        (Status: 302) [Size: 0] [--> /login/]
+[2K/upload_images        (Status: 302) [Size: 0] [--> /login/]
+[2K/uploaded_files       (Status: 302) [Size: 0] [--> /login/]
+[2K/uploadedfiles        (Status: 302) [Size: 0] [--> /login/]
+[2K/uploads2             (Status: 302) [Size: 0] [--> /login/]

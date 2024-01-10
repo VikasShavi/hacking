@@ -1,0 +1,13 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-01-09 21:15 IST
+Pre-scan script results:
+| broadcast-avahi-dos: 
+|   Discovered hosts:
+|     224.0.0.251
+|   After NULL UDP avahi packet DoS (CVE-2011-1002).
+|_  Hosts are all up (not vulnerable).
+Stats: 0:02:15 elapsed; 0 hosts completed (1 up), 1 undergoing Script Scan
+NSE Timing: About 99.49% done; ETC: 21:18 (0:00:00 remaining)
+Stats: 0:08:42 elapsed; 0 hosts completed (1 up), 1 undergoing Script Scan
+NSE Timing: About 99.92% done; ETC: 21:24 (0:00:00 remaining)
+Stats: 0:11:35 elapsed; 0 hosts completed (1 up), 1 undergoing Script Scan
+NSE Timing: About 99.92% done; ETC: 21:27 (0:00:01 remaining)

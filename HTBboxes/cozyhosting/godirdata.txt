@@ -1,0 +1,23 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://cozyhosting.htb/
+[+] Method:                  GET
+[+] Threads:                 100
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+[2K/login                (Status: 200) [Size: 4431]
+[2K/index                (Status: 200) [Size: 12706]
+[2K/admin                (Status: 401) [Size: 97]
+[2K/logout               (Status: 204) [Size: 0]
+[2K/error                (Status: 500) [Size: 73]
+[2K/http%3A%2F%2Fwww     (Status: 400) [Size: 435]
+[2K/http%3A%2F%2Fyoutube (Status: 400) [Size: 435]
+[2K/http%3A%2F%2Fblogs   (Status: 400) [Size: 435]
+[2K/http%3A%2F%2Fblog    (Status: 400) [Size: 435]
